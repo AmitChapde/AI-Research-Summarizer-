@@ -9,7 +9,7 @@ You can paste 5–10 URLs (articles, blogs, docs), and the app will fetch the co
 
 ## 🔗 Live Demo
 
-*(Add your deployed URL here)*
+*([Live_Demo](https://ai-research-summarizer-sepia.vercel.app/))*
 
 
 ---
