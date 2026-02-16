@@ -57,7 +57,7 @@ I’m only including prompts I remember and that helped shape the app.
 
 * "Should the app fail if some URLs don’t work?"
 * "What is graceful degradation in AI pipelines?"
-* "Is it worth adding heavy UI libraries for a take-home project?"
+* "Is it worth adding heavy UI libraries ?
 
 ---
 

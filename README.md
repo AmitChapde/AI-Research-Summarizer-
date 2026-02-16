@@ -25,7 +25,7 @@ You can paste 5–10 URLs (articles, blogs, docs), and the app will fetch the co
   * Conflicting claims (if any)
   * “What to verify” checklist
   * Source citations with snippets
-* Graceful handling of failed links (skipped sources shown)
+* Graceful handling of failed links 
 * Saves last 5 generated briefs (MongoDB)
 * History page
 * Status page (backend, DB, LLM health)
@@ -139,7 +139,6 @@ npm run dev
 
 * Input validation on URLs
 * Graceful fallback when sources fail
-* Helmet for basic security headers
 * No API keys committed
 
 ---
@@ -150,4 +149,4 @@ npm run dev
 * `AI_NOTES.md` – how AI was used during development
 * `PROMPTS_USED.md` – prompts used while building
 * `ABOUTME.md` – short intro and resume
-# AI-Research-Summarizer-
+

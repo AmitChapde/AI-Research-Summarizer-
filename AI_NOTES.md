@@ -44,7 +44,6 @@ Some examples where AI helped:
 * When to fail vs when to partially succeed
 * How to handle skipped sources
 * Whether to prioritize UI polish vs stability
-* How much validation is “enough” for a take-home
 
 These were more like discussions than code generation.
 
